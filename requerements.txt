@@ -1,0 +1,5 @@
+python3.11
+pandas 
+numpy
+python-dotenv
+telethon

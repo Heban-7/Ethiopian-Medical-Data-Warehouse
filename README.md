@@ -18,26 +18,6 @@ This repository will serve as a centralized hub for all project components, incl
 
 ---
 
-## Repository Structure
-
-```plaintext
-Ethiopian-Medical-Data-Warehouse/
-├── README.md                # Project overview, setup instructions, and usage
-├── LICENSE                   # License file (optional)
-├── data/                     # Directory for all data files
-│   ├── raw/                  # Raw scraped data
-│   └── processed/            # Processed data ready for analysis
-├── notebooks/                # Jupyter notebooks for exploratory data analysis (EDA)
-├── src/                      # Source code for scraping and processing
-│   ├── scraping/             # Telegram and image scraping scripts
-│   ├── etl/                  # ETL/ELT pipelines
-│   └── object_detection/     # YOLO-related scripts
-├── models/                   # Trained models for object detection
-├── logs/                     # Log files for monitoring and debugging
-├── requirements.txt          # Python dependencies
-└── config/                   # Configuration files for scraping and data processing
-```
-
 ---
 
 ## Getting Started
@@ -94,11 +74,6 @@ Feel free to contribute by submitting issues or creating pull requests.
 
 ---
 
-## License
-[MIT License](LICENSE)
-
----
-
 ## Contact
-For any inquiries or support, please reach out to [your-email@example.com].
+For any inquiries or support, please reach out to [liuljima1896@gmail.com].
 

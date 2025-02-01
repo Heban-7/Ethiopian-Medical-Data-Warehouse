@@ -18,8 +18,6 @@ This repository will serve as a centralized hub for all project components, incl
 
 ---
 
----
-
 ## Getting Started
 ### Prerequisites
 - **Python 3.8+**

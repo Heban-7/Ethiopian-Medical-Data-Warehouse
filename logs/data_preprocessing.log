@@ -1,0 +1,37 @@
+2025-02-02 00:33:32,581 - INFO - CSV file; ../data/CheMed123_text_data.csv loaded successefully.
+2025-02-02 00:33:32,590 - INFO - CSV file; ../data/DoctorsET_text_data.csv loaded successefully.
+2025-02-02 00:33:32,599 - INFO - CSV file; ../data/EAHCI_text_data.csv loaded successefully.
+2025-02-02 00:33:32,606 - INFO - CSV file; ../data/lobelia4cosmetics_text_data.csv loaded successefully.
+2025-02-02 00:33:32,626 - INFO - CSV file; ../data/yetenaweg_text_data.csv loaded successefully.
+2025-02-02 00:36:08,620 - INFO - All Dataframes Marged Successefully
+2025-02-02 00:52:44,661 - ERROR - Data cleaning error: DataFrame.drop_duplicates() got an unexpected keyword argument 'subsets'
+2025-02-02 00:54:13,921 - INFO - CSV file; ../data/CheMed123_text_data.csv loaded successefully.
+2025-02-02 00:54:13,929 - INFO - CSV file; ../data/DoctorsET_text_data.csv loaded successefully.
+2025-02-02 00:54:13,936 - INFO - CSV file; ../data/EAHCI_text_data.csv loaded successefully.
+2025-02-02 00:54:13,940 - INFO - CSV file; ../data/lobelia4cosmetics_text_data.csv loaded successefully.
+2025-02-02 00:54:13,946 - INFO - CSV file; ../data/yetenaweg_text_data.csv loaded successefully.
+2025-02-02 00:54:13,953 - INFO - All Dataframes Marged Successefully
+2025-02-02 00:54:13,979 - ERROR - Data cleaning error: module 'logging' has no attribute 'infoa'
+2025-02-02 00:55:01,126 - INFO - CSV file; ../data/CheMed123_text_data.csv loaded successefully.
+2025-02-02 00:55:01,133 - INFO - CSV file; ../data/DoctorsET_text_data.csv loaded successefully.
+2025-02-02 00:55:01,141 - INFO - CSV file; ../data/EAHCI_text_data.csv loaded successefully.
+2025-02-02 00:55:01,147 - INFO - CSV file; ../data/lobelia4cosmetics_text_data.csv loaded successefully.
+2025-02-02 00:55:01,154 - INFO - CSV file; ../data/yetenaweg_text_data.csv loaded successefully.
+2025-02-02 00:55:01,161 - INFO - All Dataframes Marged Successefully
+2025-02-02 00:55:01,190 - INFO - Duplications Removed from the DataSet.
+2025-02-02 00:55:01,190 - ERROR - Data cleaning error: module 'pandas' has no attribute 'datetime'
+2025-02-02 00:55:50,616 - INFO - CSV file; ../data/CheMed123_text_data.csv loaded successefully.
+2025-02-02 00:55:50,624 - INFO - CSV file; ../data/DoctorsET_text_data.csv loaded successefully.
+2025-02-02 00:55:50,630 - INFO - CSV file; ../data/EAHCI_text_data.csv loaded successefully.
+2025-02-02 00:55:50,635 - INFO - CSV file; ../data/lobelia4cosmetics_text_data.csv loaded successefully.
+2025-02-02 00:55:50,642 - INFO - CSV file; ../data/yetenaweg_text_data.csv loaded successefully.
+2025-02-02 00:55:50,648 - INFO - All Dataframes Marged Successefully
+2025-02-02 00:55:50,675 - INFO - Duplications Removed from the DataSet.
+2025-02-02 00:55:50,690 - INFO - Date column formatted to datetime.
+2025-02-02 00:55:50,691 - INFO - Convert Message Id into numerical columns
+2025-02-02 00:55:50,691 - INFO - Missing value fillid
+2025-02-02 00:55:50,706 - INFO - Text columns standardized.
+2025-02-02 00:55:50,761 - INFO - Emojis extracted and stored in 'emoji_used' column.
+2025-02-02 00:55:50,815 - INFO - ouTube links extracted and stored in 'youtube_links' column.
+2025-02-02 00:55:50,822 - INFO - Data cleaning completed successfully.
+2025-02-02 01:02:00,567 - INFO - Cleaned data saved successfully to '../data/preprocessed_telegram_data.csv'.

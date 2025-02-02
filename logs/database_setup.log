@@ -1,0 +1,7 @@
+2025-02-02 13:26:32,597 - INFO - Successfully connected to the PostgreSQL.
+2025-02-02 13:27:34,823 - INFO - Table 'Telegram_Medical_Message' created succussfully
+2025-02-02 13:40:13,466 - INFO - Successfully connected to the PostgreSQL.
+2025-02-02 13:40:13,475 - INFO - Table 'Telegram_Medical_Message' created succussfully
+2025-02-02 13:41:41,427 - INFO - Successfully connected to the PostgreSQL.
+2025-02-02 13:41:41,435 - INFO - Table 'Telegram_Medical_Message' created succussfully
+2025-02-02 13:41:42,101 - INFO - 1781 records inserted into PostgreSQL database.
